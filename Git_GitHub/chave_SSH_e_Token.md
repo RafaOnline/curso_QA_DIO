@@ -18,3 +18,9 @@ Ativar agente para funcionar a chave:
 Passar a chave privada ao agente:
 
 - **ssh_add + (caminho da pasta ou nome do arquivo se estiver dentro da pasta)**
+
+## Token de acesso pessoal
+
+Voc~e pode gerar um token através da conta do gihub e copiar, sempre que for necessário a maquina vai pedir esse token para liberar acessos.
+
+(Não é 100% seguro pois tem que salvar em algum lugar esse token)
