@@ -60,4 +60,20 @@
    D. Regras e negócios
    E. Ambiente
    F. Critérios de aceite
-   
+
+---
+
+### Prática
+
+Site usado no projeto: https://www.saucedemo.com/
+
+Backlog no Jira com hitória do usuário:
+
+<img width="1368" height="772" alt="image" src="https://github.com/user-attachments/assets/94ed4351-0d9b-4426-b08c-6f071ac229d0" />
+
+Narrativa do usuário e valore em casa User Storie:
+
+<img width="814" height="373" alt="image" src="https://github.com/user-attachments/assets/360a3c38-5467-4118-b273-b372a31e5d32" />
+
+<img width="808" height="448" alt="image" src="https://github.com/user-attachments/assets/5ca5df95-7c5a-4a58-aedb-352ae557481a" />
+
