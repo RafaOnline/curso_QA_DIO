@@ -71,7 +71,9 @@ Backlog no Jira com hitória do usuário:
 
 <img width="1368" height="772" alt="image" src="https://github.com/user-attachments/assets/94ed4351-0d9b-4426-b08c-6f071ac229d0" />
 
-Narrativa do usuário e valore em casa User Storie:
+
+
+Narrativa do usuário e valores em casa User Storie:
 
 <img width="814" height="373" alt="image" src="https://github.com/user-attachments/assets/360a3c38-5467-4118-b273-b372a31e5d32" />
 
