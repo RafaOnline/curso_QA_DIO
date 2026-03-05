@@ -38,6 +38,10 @@
 **Criando caso de teste usando BDD-Gherkin:**
 <img width="1361" height="353" alt="image" src="https://github.com/user-attachments/assets/24c53785-d8dc-417f-9b03-58323db619bf" />
 
+# Mindmaps para organizar planos de testes
+
+<img width="1095" height="291" alt="image" src="https://github.com/user-attachments/assets/a6139f18-19df-43ee-bddc-a0f90eb50499" />
+
 
 
 
