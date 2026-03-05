@@ -1,4 +1,4 @@
-<img width="1673" height="397" alt="image" src="https://github.com/user-attachments/assets/48c71c6a-378f-4e11-8f5a-8cb71219d03c" /># Planejamento definido e agora?
+# Planejamento definido e agora?
 - O planejamento dos testes é constantemente adaptado durante a sprint, porém é fato que antes da execução de qualquer teste é necessário pensar:
    - Técnica a ser empregada
    - Tipo de nível do teste
