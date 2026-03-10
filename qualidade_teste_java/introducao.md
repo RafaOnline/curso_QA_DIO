@@ -97,3 +97,6 @@ em sistemas,software, redes e aplicativo"
 ## Pirâmide de testes
 
 <img width="671" height="373" alt="image" src="https://github.com/user-attachments/assets/0d7e7d89-5ce5-4f3d-9d8a-4324e4a2bf21" />
+
+<img width="674" height="655" alt="image" src="https://github.com/user-attachments/assets/bee25e06-ef9c-49ad-85e6-21cfc488d183" />
+
