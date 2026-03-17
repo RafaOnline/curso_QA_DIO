@@ -1,8 +1,9 @@
 # After e before
 Testar coisas que precisa iniciar e terminar em determinado tempo Ex: Conexão com servidor
 
-@BeforeAll e @AfterAll - Tudo que inicia ou finaliza no ciclo da classe
-@BeforeEach e @AfterEach - Inicia e finaliza antes de concluir o ciclo da classe
+**@BeforeAll** e **@AfterAll** - Tudo que inicia ou finaliza no ciclo da classe
+**@@BeforeEach** e **@AfterEach** - Inicia e finaliza antes de concluir o ciclo da classe
+
 ```java
 puclic class ConsultarDadosDePessoaTest {
 
