@@ -56,12 +56,4 @@ O projeto está configurado para gerar relatórios detalhados após a execução
 *   **ExtentReports**: Gera um relatório HTML em `target/report/html/` contendo o status de cada passo e capturas de tela (screenshots) automáticas em caso de sucesso ou falha.
 *   **Cucumber JSON**: Gera um arquivo de resultados em `target/cucumber.json` para integração com outras ferramentas.
 
-## 🚀 Como Executar os Testes
 
-Para executar os testes via linha de comando, utilize o Maven:
-
-```bash
-mvn test
-```
-
-Ou execute a classe `RunnerTest.java` diretamente através de uma IDE (Eclipse/IntelliJ).
